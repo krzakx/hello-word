@@ -1,4 +1,3 @@
-# hello-word
+# Initial page
 
-Hi everyone! 
-It's Kamil here and I am already making GitHub Guide and I like it!
+## To jest test GitBook
